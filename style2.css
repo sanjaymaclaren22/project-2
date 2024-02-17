@@ -1,0 +1,218 @@
+
+.section.rs{
+    position: sticky;
+}
+.ss{
+    background-image: url("img11.avif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.inbox1{
+    text-align: center;
+    color: aliceblue;
+}
+/* a.rs{
+    margin-right:50px;
+}
+a.sr{
+    margin-right: 50px;
+    /* position: absolute;
+    right:50px; */
+/* } */ */
+h1.sh{
+    padding-top: 0PX;
+    font-size: 90px;
+}
+.inbox2{
+    text-align: center;
+}
+h4.kk{
+    color: white;
+}
+.inbox3{
+    text-align: center;
+}
+section.rr{
+    background-color: black;
+}
+.inbox4{
+    text-align: center;
+}
+p.pp{
+    color: white;
+    font-size: xx-large;
+}
+section.oo{
+    background-size: 100% 100%;
+    background-image: url("fdd1.avif");
+    background-repeat: no-repeat;
+}
+.inbox5{
+    text-align: center;
+    margin-top: 50px;
+}
+h1.hq{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+}
+p.ph{
+    color: white;
+    font-size: x-large;
+}
+.inbox6{
+    text-align: center;
+}
+.inbox7{
+    text-align: center;
+    margin-bottom: 50px;
+}
+section.kk{
+    background-size: 100% 100%;
+    background-image: url("ctring.jpg");
+    background-repeat: no-repeat;
+}
+.inbox8{
+    text-align: center;
+}
+h1.oq{    
+    color: white;
+    font-size: 50px;
+}
+p.hp{
+    color: white;
+    font-size: xx-large;
+}
+.inbox9{
+    text-align: center;
+}
+.inbox10{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.inbox11{
+    text-align: center;
+}
+section.bb{
+    color: white;
+}
+p.io{
+    color: black;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section.sa{
+    background-size: 100% 100%;
+    background-image: url("food.jpg");
+    background-repeat: no-repeat;
+}
+.inbox12{
+    text-align: center;
+}
+h1.vv{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+}
+p.xx{
+    color: white;
+    font-size: x-large;
+}
+.inbox13{
+    text-align: center;
+}
+.inbox14{
+    text-align: center;
+    margin-bottom: 50px;
+}
+section.za{
+    background-size: 100% 100%;
+    background-image: url("cpl.webp");
+    background-repeat: no-repeat;
+}
+.inbox15{
+    text-align: center;
+}
+h1.bs{    
+    color: white;
+    font-size: 70px;
+}
+p.sb{
+    color: white;
+    font-size: x-large;
+}
+.inbox16{
+    text-align: center;
+}
+.inbox17{
+    text-align: center;
+    margin-bottom: 50px;
+}
+section.ps{
+    background-color: goldenrod;
+}
+.inbox18{
+    text-align: center;
+}
+p.pb{
+    color: black;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section.ql{
+    background-size: 100% 100%;
+    background-image: url("bk.jpg");
+    background-repeat: no-repeat;
+}
+.inbox19{
+    text-align: center;
+}
+h1.lq{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+}
+p.lo{
+    color: white;
+    font-size: x-large;
+}
+.inbox20{
+    text-align: center;
+}
+.inbox21{
+    text-align: center;
+    margin-bottom: 50px;
+}
+section.un{
+    background-color:rgb(55,54,54);
+}
+.inbox22{
+    text-align: center;
+    color: white;
+    margin-left: 30px;
+}
+h4.ht{
+    color: white;
+}
+P.dk{
+    color: white;
+}
+ul.cl{
+    color: darkgray;
+}
+section.il{
+    background-color:black;
+}
+.inbox24{
+    color: darkgray;
+   text-align: center;  
+}
+.inbox25{
+    color: goldenrod;
+    text-align: center;
+}
+/* @media(max-width:714)
+{
+    section
+} */
